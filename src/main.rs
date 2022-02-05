@@ -5,7 +5,6 @@ use piston_window::types::Color;
 use piston_window::*;
 
 use crate::draw::*;
-// use crate::draw::*;
 use crate::game::*;
 
 mod draw;
